@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\bin\Debug\net8.0\Inno_Shop.BusinessLogic.deps.json
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\bin\Debug\net8.0\Inno_Shop.BusinessLogic.dll
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\bin\Debug\net8.0\Inno_Shop.BusinessLogic.pdb
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\bin\Debug\net8.0\Inno_Shop.DataAccess.dll
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\bin\Debug\net8.0\Inno_Shop.DataAccess.pdb
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\obj\Debug\net8.0\Inno_Shop.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\obj\Debug\net8.0\Inno_Shop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\obj\Debug\net8.0\Inno_Shop.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\obj\Debug\net8.0\Inno_Shop.BusinessLogic.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\obj\Debug\net8.0\Inno_Shop.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\obj\Debug\net8.0\Inno_Sho.B14F6C4C.Up2Date
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\obj\Debug\net8.0\Inno_Shop.BusinessLogic.dll
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\obj\Debug\net8.0\refint\Inno_Shop.BusinessLogic.dll
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\obj\Debug\net8.0\Inno_Shop.BusinessLogic.pdb
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.BusinessLogic\obj\Debug\net8.0\ref\Inno_Shop.BusinessLogic.dll

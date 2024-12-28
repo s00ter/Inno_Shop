@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\bin\Debug\net8.0\Inno_Shop.DataAccess.deps.json
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\bin\Debug\net8.0\Inno_Shop.DataAccess.runtimeconfig.json
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\bin\Debug\net8.0\Inno_Shop.DataAccess.dll
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\bin\Debug\net8.0\Inno_Shop.DataAccess.pdb
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\obj\Debug\net8.0\Inno_Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\obj\Debug\net8.0\Inno_Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\obj\Debug\net8.0\Inno_Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\obj\Debug\net8.0\Inno_Shop.DataAccess.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\obj\Debug\net8.0\Inno_Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\obj\Debug\net8.0\Inno_Shop.DataAccess.dll
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\obj\Debug\net8.0\refint\Inno_Shop.DataAccess.dll
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\obj\Debug\net8.0\Inno_Shop.DataAccess.pdb
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\obj\Debug\net8.0\Inno_Shop.DataAccess.genruntimeconfig.cache
+C:\Users\User\RiderProjects\Inno_Shop\Inno_Shop.DataAccess\obj\Debug\net8.0\ref\Inno_Shop.DataAccess.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Tp+s5OL6MEpt808uxITKJ/ae4nV8Lqd7eOzS6vLuLKU=",
+  "Source": "Inno_Shop.AccountApi",
+  "BasePath": "_content/Inno_Shop.AccountApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

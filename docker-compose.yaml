@@ -5,7 +5,7 @@ services:
     container_name: account-api
     build:
       context: .
-      dockerfile: Inno_Shop.Api/Dockerfile
+      dockerfile: Inno_Shop.AccountApi/Dockerfile
     ports:
       - "8080:8080"
     depends_on:
